@@ -5,4 +5,4 @@ I'm hosted with GitHub Pages.
 
 ## Common cold
 ![Common Cold](https://imgs.xkcd.com/comics/common_cold.png)
-*https://xkcd.com/2306/*
+*[https://xkcd.com/2306/](https://xkcd.com/2306/)*
