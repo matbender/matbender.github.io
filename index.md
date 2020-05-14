@@ -4,5 +4,5 @@ I'm hosted with GitHub Pages.
 * <a href="https://github.com/matbender" rel="me">matbender1</a> on Github
 
 ## Common cold
-https://imgs.xkcd.com/comics/common_cold.png
-
+![Common Cold](https://imgs.xkcd.com/comics/common_cold.png)
+https://xkcd.com/2306/
